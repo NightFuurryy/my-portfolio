@@ -33,7 +33,7 @@ export default function Index() {
       description: 'Scalable cloud management system with real-time monitoring',
       tech: ['Node.js', 'CloudStack', 'PostgreSQL'],
       github: '#',
-      demo: '#'
+      
     },
     {
       title: 'Enterprise Networking Solution',
